@@ -32,7 +32,7 @@ void setup()
   lcd.setCursor(0,0);
   lcd.print("Motor");
   pausa(1000);
-  lcd.setCursor(0,0);
+  lcd.setCursor(0,0); 
   lcd.print("        ");
   pausa(1);
   lcd.setCursor(0,0);
